@@ -123,6 +123,12 @@ CineMatch/
 ├── notebook/
 │   └── CineMatch.ipynb
 │
+├── screenshots/
+│   ├── home.png
+│   ├── search.png
+│   ├── recommendations.png
+│   └── movie_details.png
+│
 ├── utils/
 │   └── tmdb.py
 │
