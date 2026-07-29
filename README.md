@@ -34,13 +34,14 @@ https://harsh-cinematch.onrender.com/
 
 ![Search](screenshots/search.png)
 
+### Movie Details
+
+![Movie Details](screenshots/movie_details.png)
+
 ### Recommendations
 
 ![Recommendations](screenshots/recommendations.png)
 
-### Movie Details
-
-![Movie Details](screenshots/movie_details.png)
 ---
 
 ## ✨ Features
