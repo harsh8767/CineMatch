@@ -19,7 +19,7 @@ Using **content-based filtering** and **cosine similarity**, the system recommen
 
 ## 🚀 Live Demo
 
-https://harsh-cinematch.streamlit.app
+https://harsh-cinematch.onrender.com/
 ---
 
 ## 📸 Preview
