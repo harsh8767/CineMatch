@@ -26,8 +26,21 @@ https://harsh-cinematch.onrender.com/
 
 
 
-Coming Soon...
+### Home Page
 
+![Home](screenshots/home.png)
+
+### Search Movie
+
+![Search](screenshots/search.png)
+
+### Recommendations
+
+![Recommendations](screenshots/recommendations.png)
+
+### Movie Details
+
+![Movie Details](screenshots/movie_details.png)
 ---
 
 ## ✨ Features
