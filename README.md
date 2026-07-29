@@ -207,7 +207,6 @@ This project uses the **TMDB 5000 Movie Dataset**, consisting of:
 
 ## 🌟 Future Improvements
 
-- ▶️ Movie Trailers
 - ❤️ Favorites
 - 📚 Watchlist
 - 👤 User Authentication
